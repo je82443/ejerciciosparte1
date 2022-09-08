@@ -13,7 +13,7 @@
 
         contador = 1;
         limite = 10;
-        for (contador = 1; contador <= limite; contador++) ;
+        for (contador = 1; contador <= limite; contador++) 
         {
             sumatoria = sumatoria + contador; 
             Console.WriteLine($" es resultado de la sumatoria es {sumatoria}");       
